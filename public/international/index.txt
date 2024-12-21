@@ -1,0 +1,11 @@
+hello,Hello,你好
+welcome,Welcome to our website!,欢迎来到我们的网站！
+light_up_moment,For that light-up-their-face moment,让他们眼前一亮的时刻
+discover_books,Discover personalized books to delight the whole family – like magic.,发现个性化书籍，给全家带来欢乐——如同魔法一般。
+shop_all_gifts,Shop all gifts,购买所有礼物
+christmas_list,Who's on your Christmas list?,谁在您的圣诞礼物清单上？
+for_babies,For babies,为婴儿
+for_kids,For kids,为儿童
+for_family,For the family,为家庭
+for_adults,For adults,为成人
+trustpilot,Excellent 4.5 out of 5,评分4.5/5，表现出色
